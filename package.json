@@ -1,0 +1,22 @@
+{
+  "name": "bot-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --env-file=.env index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord.js": "^14.15.2",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.13",
+    "play-dl": "^1.9.7",
+    "youtube-sr": "^4.3.11"
+  }
+}
