@@ -20,7 +20,7 @@ Este repositório contém um simples bot de música para Discord, desenvolvido e
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/simple-discord-music-bot.git
+   git clone https://github.com/Igor265/simple-discord-music-bot.git
    cd simple-discord-music-bot
 
 2. Instale as dependências:
